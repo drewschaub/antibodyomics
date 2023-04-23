@@ -1,12 +1,25 @@
-# antibodyomics
+## About
 
-## Backend
+---
 
-I'm using setuptools, but other options were Hatchling, Flit and PDM
+**Source Code**: <a href="https://https://github.com/drewschaub/antibodyomics" target="_blank">https://https://github.com/drewschaub/antibodyomics</a>
 
-https://packaging.python.org/en/latest/tutorials/packaging-projects/
+---
 
+Antibodyomics is a python library for performing structural and genetic  bioinformatic analysis in python. 
 
-## Action Items
+## Installation
 
-1. I need to add the required packages to `pyproject.toml` 
+---
+
+Installation is handled using the python package installer `pip`
+
+```console
+$ pip install antibodyomics
+```
+
+## License
+
+[![License](https://img.shields.io/github/license/drewschaub/antibodyomics)](https://opensource.org/licenses/MIT)
+
+- Copyright © Andrew J. Schaub

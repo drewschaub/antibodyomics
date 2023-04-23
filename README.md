@@ -2,7 +2,7 @@
 
 ---
 
-**Source Code**: <a href="https://https://github.com/drewschaub/antibodyomics" target="_blank">https://https://github.com/drewschaub/antibodyomics</a>
+**Source Code**: <a href="https://github.com/drewschaub/antibodyomics" target="_blank">https://https://github.com/drewschaub/antibodyomics</a>
 
 ---
 
